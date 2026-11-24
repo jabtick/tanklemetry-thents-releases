@@ -1,0 +1,10 @@
+{
+  "version": "0.9.0+1",
+  "notes": "- TANKlemetry now updates itself: new versions download in the background and install when you choose.\n- New tracks and track edges arrive automatically, without reinstalling.",
+  "published": "2026-11-24",
+  "installer": {
+    "url": "https://github.com/jabtick/tanklemetry-thents-releases/releases/download/v0.9.0.1/TANKlemetrySetup-0.9.0.1.exe",
+    "sha256": "0912f5e071b8a2b8d57570a776b24e66220adc6a44903fdb8d0dcbd0c328309e",
+    "size": 82320659
+  }
+}
