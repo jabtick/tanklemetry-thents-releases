@@ -1,10 +1,10 @@
 {
-  "version": "0.9.0+1",
-  "notes": "- TANKlemetry now updates itself: new versions download in the background and install when you choose.\n- New tracks and track edges arrive automatically, without reinstalling.",
-  "published": "2026-11-24",
+  "version": "0.9.1+2",
+  "notes": "### Community\n- Create an account with your email: we send you a code to confirm it.\n- Share a session with friends or everyone, from the Share button in Analyze.\n- Add friends, give kudos and comment on their sessions; open any shared session in Analyze, with every graph.\n- Leaderboards for every track, all time and this month, clockwise and anticlockwise (forward and reverse for stages).\n- Link your TANKlemetry unit with the code from its box: your sessions get the verified badge.\n- Forgot your password? Reset it with a code from your email.\n### Timing\n- The start/finish line is drawn on the map as a real line. Turn it and set its length by hand when the automatic one is off, and see each crossing counted as you adjust it.",
+  "published": "2026-11-25",
   "installer": {
-    "url": "https://github.com/jabtick/tanklemetry-thents-releases/releases/download/v0.9.0.1/TANKlemetrySetup-0.9.0.1.exe",
-    "sha256": "0912f5e071b8a2b8d57570a776b24e66220adc6a44903fdb8d0dcbd0c328309e",
-    "size": 82320659
+    "url": "https://github.com/jabtick/tanklemetry-thents-releases/releases/download/v0.9.1.2/TANKlemetrySetup-0.9.1.2.exe",
+    "sha256": "fc3eb4c2843b5c7306f245ce2976977e7282965d90618b669575e7f22d78b071",
+    "size": 82637437
   }
 }
